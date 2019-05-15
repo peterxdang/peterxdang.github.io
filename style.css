@@ -27,7 +27,10 @@
 .alignright {
         text-align:right;
 }
-
+#textbox {
+    display: flex;
+    justify-content: space-between;
+}
         .normal{
             font-style: normal;
         
