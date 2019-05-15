@@ -21,7 +21,13 @@
             font-size:20px;
             font-family:calibri, serif;
         }
-        
+.alignleft {
+        text-align: left;
+}
+.alignright {
+        text-align:right;
+}
+
         .normal{
             font-style: normal;
         
