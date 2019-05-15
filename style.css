@@ -3,10 +3,24 @@
         .italic {
             font-style: italic;
             float: left;
+                
+            margin-bottom: 50px;
+            margin-top:50px;
+            margin-left: 50px;
+            margin-right: 50px;
+            font-size:20px;
+            font-family:calibri, serif;
         }
         .italicr {
             font-style: italic;
             float: right;
+                
+            margin-bottom: 50px;
+            margin-top:50px;
+            margin-left: 50px;
+            margin-right: 50px;
+            font-size:20px;
+            font-family:calibri, serif;
         }
         
         .normal{
