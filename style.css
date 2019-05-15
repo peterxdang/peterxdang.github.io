@@ -1,18 +1,48 @@
 
 <style> 
         p.italic {
-            font-style: italic;
+            font-style: italic, serif;
         }
        
         body{
     background-color:rgb(176,196,222)
         
         }
-        div {
+        .margin {
             margin-bottom: 50px;
             margin-top:50px;
             margin-left: 50px;
             margin-right: 50px;
             font-size:20px;
-            font-family:calibri;
+            font-family:calibri, serif;
         }
+     
+   
+        h1 {
+            margin-bottom: 50px;
+            margin-top:50px;
+            margin-left: 50px;
+            margin-right: 50px;
+                
+            
+            font-size:75px;
+            text-align: center;
+            font-family:verdana, serif;
+             
+   
+        }
+        h3 {
+            border-bottom: solid;
+            border-width: 1px;
+            font-family:arial, serif;
+           
+        }
+        h4 {
+            font-size:25px;
+        }
+        h5 {
+            font-size: 20px;
+
+        }
+          
+</style>
