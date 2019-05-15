@@ -1,11 +1,16 @@
 
 <style> 
-        p.italic {
-            font-style: italic, serif;
+        .italic {
+            font-style: italic;
+            float: left;
         }
-       
-        body{
-    background-color:rgb(176,196,222)
+        .italicr {
+            font-style: italic;
+            float: right;
+        }
+        
+        .normal{
+            font-style: normal;
         
         }
         .margin {
@@ -44,5 +49,6 @@
             font-size: 20px;
 
         }
-          
+    body{
+        background-color:rgb(176,196,222)
 </style>
