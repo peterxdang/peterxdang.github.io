@@ -1,15 +1,8 @@
 
 <style> 
-        .italic {
-            font-style: italic;
-                
-            margin-bottom: 50px;
-            margin-top:50px;
-            margin-left: 50px;
-            margin-right: 50px;
-            font-size:20px;
-          
-         }
+.italic {
+        font-style: italic;
+}
 
         .italicr {
             font-style: italic;
@@ -49,10 +42,10 @@
             font-style: normal
 }
         .margin {
-            margin-bottom: 50px;
-            margin-top:50px;
-            margin-left: 50px;
-            margin-right: 50px;
+            margin-bottom: 75px;
+            margin-top:75px;
+            margin-left: 75px;
+            margin-right: 75px;
             font-size:20px;
             font-family:calibri, serif;
                 
