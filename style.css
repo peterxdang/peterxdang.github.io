@@ -1,9 +1,5 @@
 
 <style> 
-.italic {
-        font-style: italic;
-        font-size: 23px;
-}
 
 .alignleft {
         text-align: left;
@@ -25,7 +21,8 @@
 }
 
 .aligncenter {
-        text-align: center; 
+        text-align: center;
+        font-family: "Arial Black", Gadget, sans-serif;
 }
 .bigger {
         font-size: 20px;
