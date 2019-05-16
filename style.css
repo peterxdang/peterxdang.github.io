@@ -4,17 +4,6 @@
         font-style: italic;
 }
 
-        .italicr {
-            font-style: italic;
-            float: right;
-                
-            margin-bottom: 50px;
-            margin-top:50px;
-            margin-left: 50px;
-            margin-right: 50px;
-            font-size:20px;
-            font-family:calibri, serif;
-        }
 .alignleft {
         text-align: left;
         
@@ -22,16 +11,16 @@
             margin-top:50px;
             margin-left: 50px;
             margin-right: 50px;
-            font-size:20px;
+            font-size:25px;
 }
 .alignright {
         text-align:right;
         
-        margin-bottom: 50px;
-            margin-top:50px;
-            margin-left: 50px;
-            margin-right: 50px;
-            font-size:20px;
+        margin-bottom: 25px;
+            margin-top:25px;
+            margin-left: 25px;
+            margin-right: 25px;
+            font-size:25px;
 }
 #textbox {
     display: flex;
