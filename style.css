@@ -23,18 +23,29 @@
         }
 .alignleft {
         text-align: left;
+        
+            margin-bottom: 50px;
+            margin-top:50px;
+            margin-left: 50px;
+            margin-right: 50px;
+            font-size:20px;
 }
 .alignright {
         text-align:right;
+        
+        margin-bottom: 50px;
+            margin-top:50px;
+            margin-left: 50px;
+            margin-right: 50px;
+            font-size:20px;
 }
 #textbox {
     display: flex;
     justify-content: space-between;
 }
         .normal{
-            font-style: normal;
-        
-        }
+            font-style: normal
+}
         .margin {
             margin-bottom: 50px;
             margin-top:50px;
@@ -42,7 +53,10 @@
             margin-right: 50px;
             font-size:20px;
             font-family:calibri, serif;
-        }
+                
+        display: flex;
+        justify-content: space-between;
+}
      
    
         h1 {
@@ -55,23 +69,22 @@
             font-size:75px;
             text-align: center;
             font-family:verdana, serif;
-             
-   
-        }
+}
+
         h3 {
             border-bottom: solid;
             border-width: 1px;
             font-family:arial, serif;
            
-        }
+}
         h4 {
             font-size:25px;
-        }
+}
         h5 {
             font-size: 20px;
 
-        }
+}
         body{
             background-color: rgb(176,196,222);
-        }
+}
 </style>
