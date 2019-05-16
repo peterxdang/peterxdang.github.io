@@ -22,8 +22,12 @@
             margin-right: 25px;
             font-size:25px;
 }
+
 .aligncenter {
         text-align: center; 
+}
+.bigger {
+        font-size: 20px;
 }
 #textbox {
     display: flex;
@@ -65,9 +69,7 @@
             font-size:25px;
 }
         h5 {
-            font-size: 20px;
-        p {
-            font-size: 25px;     
+            font-size: 20px;     
 }
                 
 }
