@@ -42,12 +42,6 @@
 #textbox {
     display: flex;
     justify-content: space-between;
-        
-     margin-bottom: 50px;
-            margin-top:50px;
-            margin-left: 50px;
-            margin-right: 50px;
-            font-size:20px;
 }
         .normal{
             font-style: normal
@@ -60,8 +54,6 @@
             font-size:20px;
             font-family:calibri, serif;
                 
-        display: flex;
-        justify-content: space-between;
 }
      
    
