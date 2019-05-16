@@ -36,7 +36,7 @@
 #textbox {
     display: flex;
     justify-content: space-between;
-     font-size: 25px;
+     font-size: 35px;
 }
         .normal{
             font-style: normal
@@ -46,8 +46,6 @@
             margin-top:75px;
             margin-left: 75px;
             margin-right: 75px;
-            font-size:20px;
-            font-family:calibri, serif;
                 
 }
      
