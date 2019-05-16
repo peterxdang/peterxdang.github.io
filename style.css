@@ -2,12 +2,13 @@
 <style> 
         .italic {
             font-style: italic;
+                
             margin-bottom: 50px;
             margin-top:50px;
             margin-left: 50px;
             margin-right: 50px;
             font-size:20px;
-            font-family:calibri, serif;
+          
          }
 
         .italicr {
