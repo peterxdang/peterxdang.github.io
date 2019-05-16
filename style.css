@@ -55,6 +55,7 @@
             border-bottom: solid;
             border-width: 1px;
             font-family:arial, serif;
+            font-size: 30px;
            
 }
         h4 {
@@ -62,7 +63,10 @@
 }
         h5 {
             font-size: 20px;
-
+        p {
+            font-size: 25px;     
+}
+                
 }
         body{
             background-color: rgb(176,196,222);
